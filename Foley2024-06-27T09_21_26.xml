@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-infoPathSolution name="urn:schemas-microsoft-com:office:infopath:SearchRequests:-myXSD-2017-09-18T14-57-19" solutionVersion="1.0.0.1102" productVersion="16.0.0.0" PIVersion="1.0.0.0" href="https://secoit.sharepoint.com/sites/ExamNet/ORS/ORAS/SAR/SearchRequests/Forms/template.xsn"?><?mso-application progid="InfoPath.Document" versionProgid="InfoPath.Document.3"?><my:myFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:tns="http://microsoft.com/webservices/SharePointPortalServer/UserProfileService" xmlns:s1="http://microsoft.com/wsdl/types/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:ns1="http://schemas.microsoft.com/sharepoint/soap/directory/" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2017-09-18T14:57:19" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-US">
+	<my:hiddenDataFields>
+		<my:today>2024-06-27</my:today>
+		<my:weekDay>4</my:weekDay>
+		<my:weekStart>2024-06-24</my:weekStart>
+		<my:weekEnd>2024-06-29</my:weekEnd>
+		<my:loginUser2013>i:0#.f|membership|brownl@sec.gov</my:loginUser2013>
+		<my:loginName2013>Brown, Leah A.</my:loginName2013>
+		<my:loginUser2010>i:0#.f|membership|brownl@sec.gov</my:loginUser2010>
+		<my:formUID>Foley2024-06-27T09:21:26</my:formUID>
+		<my:formStatus>Completed</my:formStatus>
+		<my:requestorName>Foley, Erin</my:requestorName>
+		<my:requestorLastName>Foley</my:requestorLastName>
+		<my:asstDirector>Devaney, Michael J.; </my:asstDirector>
+		<my:asstDirectorID>i:0#.f|membership|devaneym@sec.gov; </my:asstDirectorID>
+		<my:fincenUsers>Brown, Leah A.; </my:fincenUsers>
+		<my:fincenUsersID>i:0#.f|membership|brownl@sec.gov; </my:fincenUsersID>
+		<my:fincenUsersConfig></my:fincenUsersConfig>
+		<my:fincenUsersConfigID></my:fincenUsersConfigID>
+		<my:fincenUsersAll>Brown, Leah A.; </my:fincenUsersAll>
+		<my:DLorMBGroups></my:DLorMBGroups>
+		<my:fincenUserRequired>*This is required field and cannot be blank.</my:fincenUserRequired>
+		<my:fincenUserValidate>Yes</my:fincenUserValidate>
+		<my:ApprovalCompletedBy>Devaney, Michael J.</my:ApprovalCompletedBy>
+		<my:ApprovalCompletedDate>2024-06-27</my:ApprovalCompletedDate>
+		<my:SearchCompletedBy>Brown, Leah A.</my:SearchCompletedBy>
+		<my:SearchCompletedDate>2024-06-27</my:SearchCompletedDate>
+		<my:businessDays60>
+			<my:dayNumber>4</my:dayNumber>
+			<my:daysRemaining>3</my:daysRemaining>
+			<my:daysHolidays>84</my:daysHolidays>
+			<my:businessDaysToAdd>60</my:businessDaysToAdd>
+			<my:startDate>2024-06-27</my:startDate>
+			<my:endDateAddedBusinessDays>2024-09-19</my:endDateAddedBusinessDays>
+			<my:Date60Validate>2024-09-19</my:Date60Validate>
+		</my:businessDays60>
+		<my:businessDays30>
+			<my:dayNumber1>4</my:dayNumber1>
+			<my:daysRemaining1>3</my:daysRemaining1>
+			<my:daysHolidays1>42</my:daysHolidays1>
+			<my:businessDaysToAdd1>30</my:businessDaysToAdd1>
+			<my:startDate1>2024-06-27</my:startDate1>
+			<my:endDateAddedBusinessDays1>2024-08-08</my:endDateAddedBusinessDays1>
+			<my:Date30Validate>2024-08-08</my:Date30Validate>
+		</my:businessDays30>
+	</my:hiddenDataFields>
+	<my:requestor>
+		<pc:Person>
+			<pc:DisplayName>Foley, Erin</pc:DisplayName>
+			<pc:AccountId>i:0#.f|membership|foleye@sec.gov</pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:requestor>
+	<my:title>Staff Accountant</my:title>
+	<my:regionalOffice>NYRO</my:regionalOffice>
+	<my:programOffice>IAIC</my:programOffice>
+	<my:email>FOLEYE@SEC.gov</my:email>
+	<my:phone>212.336.0571</my:phone>
+	<my:groupAsstDirector>
+		
+	<pc:Person xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls"><pc:DisplayName>Devaney, Michael J.</pc:DisplayName><pc:AccountId>i:0#.f|membership|devaneym@sec.gov</pc:AccountId><pc:AccountType>User</pc:AccountType></pc:Person></my:groupAsstDirector>
+	<my:TRENDSExamNumchk>No</my:TRENDSExamNumchk>
+	<my:TRENDSOtherChk>No</my:TRENDSOtherChk>
+	<my:TCRNumberChk>No</my:TCRNumberChk>
+	<my:OtherOCIERefNumChk>Yes</my:OtherOCIERefNumChk>
+	<my:searchInitiatives>NEP</my:searchInitiatives>
+	<my:agenciesPaticipating></my:agenciesPaticipating>
+	<my:purposeSelected>Conducting background research/pre exam due diligence</my:purposeSelected>
+	<my:purpose></my:purpose>
+	<my:previouslyRequested>No</my:previouslyRequested>
+	<my:fromDate>2024-01-23</my:fromDate>
+	<my:ToDate>2024-06-27</my:ToDate>
+	<my:groupDCN>
+		<my:DCN>
+			<my:DCN_Number></my:DCN_Number>
+		</my:DCN>
+	</my:groupDCN>
+	<my:groupSubject>
+		<my:Subject>
+			<my:subjectType>Entity</my:subjectType>
+			<my:lastName>Group RMC Investment Advisor LLC</my:lastName>
+			<my:middleName></my:middleName>
+			<my:firstName></my:firstName>
+			<my:alias></my:alias>
+			<my:DOB xsi:nil="true"></my:DOB>
+			<my:SSN></my:SSN>
+			<my:DL_Number></my:DL_Number>
+			<my:DL_State></my:DL_State>
+			<my:passportNumber></my:passportNumber>
+			<my:passportCountry></my:passportCountry>
+			<my:accountNumber></my:accountNumber>
+			<my:streetAddress>One World Trade Center </my:streetAddress>
+			<my:city>New York</my:city>
+			<my:state>NY</my:state>
+			<my:ZIP>10007</my:ZIP>
+			<my:country></my:country>
+			<my:rowNumber>1</my:rowNumber>
+			<my:subjectInfo>1) Entity - Group RMC Investment Advisor LLC, </my:subjectInfo>
+			<my:DOB_PII>XX/XX/NaN</my:DOB_PII>
+			<my:SSN_PII>XXX-XX-</my:SSN_PII>
+			<my:DL_Number_PII>XXXXXXXXX</my:DL_Number_PII>
+			<my:DL_State_PII>XX</my:DL_State_PII>
+			<my:passportNumber_PII>XXXXXXXXX</my:passportNumber_PII>
+			<my:passportCountry_PII>XXXXXXXXX</my:passportCountry_PII>
+			<my:accountNumber_PII>XXXXXXXXX</my:accountNumber_PII>
+			<my:financialInstitution></my:financialInstitution>
+			<my:financialInstitution_PII>XXXXXXXXX</my:financialInstitution_PII>
+			<my:groupSubjectFields>
+				<my:subjectInfoType>1) Entity</my:subjectInfoType>
+				<my:subjectLastName>1) Group RMC Investment Advisor LLC</my:subjectLastName>
+				<my:subjectMiddleName>1) </my:subjectMiddleName>
+				<my:subjectFirstName>1) </my:subjectFirstName>
+				<my:subjectOtherName>1) </my:subjectOtherName>
+				<my:subjectDOB>1) </my:subjectDOB>
+				<my:subjectSSN>1) </my:subjectSSN>
+				<my:subjectDriverLicense>1) </my:subjectDriverLicense>
+				<my:subjectDLStateIssued>1) </my:subjectDLStateIssued>
+				<my:subjectPassport>1) </my:subjectPassport>
+				<my:subjectPassportCountryIssued>1) </my:subjectPassportCountryIssued>
+				<my:subjectFinancialInstitution>1) </my:subjectFinancialInstitution>
+				<my:subjectAccountNumbrer>1) </my:subjectAccountNumbrer>
+				<my:subjectStreetAddress>1) One World Trade Center </my:subjectStreetAddress>
+				<my:subjectCity>1) New York</my:subjectCity>
+				<my:subjectState>1) NY</my:subjectState>
+				<my:subjectZIP>1) 10007</my:subjectZIP>
+				<my:subjectCountry>1) </my:subjectCountry>
+				<my:subjectCommitTrigger>concat(rowNumber, ") ", subjectType)</my:subjectCommitTrigger>
+			</my:groupSubjectFields>
+		</my:Subject><my:Subject><my:subjectType>Individual</my:subjectType><my:lastName>Mangan</my:lastName><my:middleName></my:middleName><my:firstName>Jerome</my:firstName><my:alias></my:alias><my:DOB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"></my:DOB><my:SSN></my:SSN><my:DL_Number></my:DL_Number><my:DL_State></my:DL_State><my:passportNumber></my:passportNumber><my:passportCountry></my:passportCountry><my:accountNumber></my:accountNumber><my:streetAddress></my:streetAddress><my:city></my:city><my:state></my:state><my:ZIP></my:ZIP><my:country></my:country><my:rowNumber>2</my:rowNumber><my:subjectInfo>2) Individual - Mangan, Jerome</my:subjectInfo><my:DOB_PII>XX/XX/NaN</my:DOB_PII><my:SSN_PII>XXX-XX-</my:SSN_PII><my:DL_Number_PII>XXXXXXXXX</my:DL_Number_PII><my:DL_State_PII>XX</my:DL_State_PII><my:passportNumber_PII>XXXXXXXXX</my:passportNumber_PII><my:passportCountry_PII>XXXXXXXXX</my:passportCountry_PII><my:accountNumber_PII>XXXXXXXXX</my:accountNumber_PII><my:financialInstitution></my:financialInstitution><my:financialInstitution_PII>XXXXXXXXX</my:financialInstitution_PII><my:groupSubjectFields><my:subjectInfoType>2) Individual</my:subjectInfoType><my:subjectLastName>2) Mangan</my:subjectLastName><my:subjectMiddleName>2) </my:subjectMiddleName><my:subjectFirstName>2) Jerome</my:subjectFirstName><my:subjectOtherName>2) </my:subjectOtherName><my:subjectDOB>2) </my:subjectDOB><my:subjectSSN>2) </my:subjectSSN><my:subjectDriverLicense>2) </my:subjectDriverLicense><my:subjectDLStateIssued>2) </my:subjectDLStateIssued><my:subjectPassport>2) </my:subjectPassport><my:subjectPassportCountryIssued>2) </my:subjectPassportCountryIssued><my:subjectFinancialInstitution>2) </my:subjectFinancialInstitution><my:subjectAccountNumbrer>2) </my:subjectAccountNumbrer><my:subjectStreetAddress>2) </my:subjectStreetAddress><my:subjectCity>2) </my:subjectCity><my:subjectState>2) </my:subjectState><my:subjectZIP>2) </my:subjectZIP><my:subjectCountry>2) </my:subjectCountry><my:subjectCommitTrigger>concat(rowNumber, ") ", subjectType)</my:subjectCommitTrigger></my:groupSubjectFields></my:Subject><my:Subject><my:subjectType>Individual</my:subjectType><my:lastName>Massa</my:lastName><my:middleName></my:middleName><my:firstName>Alexander</my:firstName><my:alias></my:alias><my:DOB xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"></my:DOB><my:SSN></my:SSN><my:DL_Number></my:DL_Number><my:DL_State></my:DL_State><my:passportNumber></my:passportNumber><my:passportCountry></my:passportCountry><my:accountNumber></my:accountNumber><my:streetAddress></my:streetAddress><my:city></my:city><my:state></my:state><my:ZIP></my:ZIP><my:country></my:country><my:rowNumber>3</my:rowNumber><my:subjectInfo>3) Individual - Massa, Alexander</my:subjectInfo><my:DOB_PII>XX/XX/NaN</my:DOB_PII><my:SSN_PII>XXX-XX-</my:SSN_PII><my:DL_Number_PII>XXXXXXXXX</my:DL_Number_PII><my:DL_State_PII>XX</my:DL_State_PII><my:passportNumber_PII>XXXXXXXXX</my:passportNumber_PII><my:passportCountry_PII>XXXXXXXXX</my:passportCountry_PII><my:accountNumber_PII>XXXXXXXXX</my:accountNumber_PII><my:financialInstitution></my:financialInstitution><my:financialInstitution_PII>XXXXXXXXX</my:financialInstitution_PII><my:groupSubjectFields><my:subjectInfoType>3) Individual</my:subjectInfoType><my:subjectLastName>3) Massa</my:subjectLastName><my:subjectMiddleName>3) </my:subjectMiddleName><my:subjectFirstName>3) Alexander</my:subjectFirstName><my:subjectOtherName>3) </my:subjectOtherName><my:subjectDOB>3) </my:subjectDOB><my:subjectSSN>3) </my:subjectSSN><my:subjectDriverLicense>3) </my:subjectDriverLicense><my:subjectDLStateIssued>3) </my:subjectDLStateIssued><my:subjectPassport>3) </my:subjectPassport><my:subjectPassportCountryIssued>3) </my:subjectPassportCountryIssued><my:subjectFinancialInstitution>3) </my:subjectFinancialInstitution><my:subjectAccountNumbrer>3) </my:subjectAccountNumbrer><my:subjectStreetAddress>3) </my:subjectStreetAddress><my:subjectCity>3) </my:subjectCity><my:subjectState>3) </my:subjectState><my:subjectZIP>3) </my:subjectZIP><my:subjectCountry>3) </my:subjectCountry><my:subjectCommitTrigger>concat(rowNumber, ") ", subjectType)</my:subjectCommitTrigger></my:groupSubjectFields></my:Subject>
+	</my:groupSubject>
+	<my:groupApprover>
+		<my:approverComments></my:approverComments>
+	</my:groupApprover>
+	<my:groupAdmin></my:groupAdmin>
+	<my:eMailTrigger>Yes</my:eMailTrigger>
+	<my:groupButton>
+		<my:maxid xsi:nil="true"></my:maxid>
+	</my:groupButton>
+	<my:groupFormClosed>
+		<my:searchComplete>true</my:searchComplete>
+	</my:groupFormClosed>
+	<my:finCENUser>
+		
+	<pc:Person xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls"><pc:DisplayName>Brown, Leah A.</pc:DisplayName><pc:AccountId>i:0#.f|membership|brownl@sec.gov</pc:AccountId><pc:AccountType>User</pc:AccountType></pc:Person></my:finCENUser>
+	<my:TRENDSExamNum></my:TRENDSExamNum>
+	<my:TRENDSOther></my:TRENDSOther>
+	<my:TCRNumber></my:TCRNumber>
+	<my:OtherOCIERefNum>801-129379</my:OtherOCIERefNum>
+	<my:isFinCENUser>Yes</my:isFinCENUser>
+	<my:isRequestorUser>No</my:isRequestorUser>
+	<my:OCIEReferenceNumber>801-129379</my:OCIEReferenceNumber>
+	<my:groupSubmitComplete></my:groupSubmitComplete>
+	<my:groupCompleteInfo></my:groupCompleteInfo>
+	<my:groupReturn>
+		<my:returnValidation>No</my:returnValidation>
+	</my:groupReturn>
+	<my:groupSubmitReject>
+		<my:rejectOpen>No</my:rejectOpen>
+	</my:groupSubmitReject>
+	<my:registrantName>Group RMC Investment Advisor LLC</my:registrantName>
+	<my:field1>i:0#.f|membership|foleye@sec.gov</my:field1>
+</my:myFields>
